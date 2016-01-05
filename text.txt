@@ -1,2 +1,8 @@
 @PATH
-@PATH
+@PATHgit push -u origin mastergit push -u origin master
+git push -u origin master
+git push -u origin master
+git push -u origin master
+git push -u origin master
+git push -u origin master
+git push -u origin master
